@@ -1,0 +1,45 @@
+[1]  Pause, tick speed, reset.					DONE
+[2]  Status bar: generation, population, &c.			DONE
+[3]  Screenshot to PNG.						????
+[4]  Checkpoint and restore. Via BMP.				DONE
+[5]  Zoom and pan.						DONE
+[6]  Help panel							DONE
+[7]  Credits panel						DONE
+[8]  Parallelisation						DONE
+[9]  Periodic graphical updates
+[10] Per-row RLE, memcpy halo init.
+[10] Pattern recognition, e.g. Glider count.
+[11] Hashlife
+
+
+
+[1]	#
+
+[2]	##
+	##
+
+
+[3]	###
+	###
+	###
+
+[4]	####
+	####
+	####
+	####
+
+
+&c...
+
+
+   #  #
+       #
+   #   #
+    ####
+
+Rabbits:
+
+  O...OOO
+  OOO..O.
+  .O.....
+
